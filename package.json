@@ -1,0 +1,15 @@
+{
+  "name": "danaix-hello",
+  "version": "1.0.0",
+  "description": "Minimal Node.js web app for deploying on DanaIX PaaS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
